@@ -1,0 +1,398 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of the noblemen and peers of the kingdom of England according to their birth and creatio[n] in the reign of Charles the Second, King of England, Scotland, France and Ireland collected by E. Alleyn.</title>
+            <author>Alleyn, E.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A23808</idno>
+            <idno type="STC">Wing A1199</idno>
+            <idno type="STC">ESTC R11571</idno>
+            <idno type="EEBO-CITATION">12715523</idno>
+            <idno type="OCLC">ocm 12715523</idno>
+            <idno type="VID">66177</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A23808)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66177)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 373:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of the noblemen and peers of the kingdom of England according to their birth and creatio[n] in the reign of Charles the Second, King of England, Scotland, France and Ireland collected by E. Alleyn.</title>
+                  <author>Alleyn, E.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Portrait of Charles II.</note>
+                  <note>Four columns to the page.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nobility --  Great Britain.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:66177:1" rendition="simple:additions"/>
+            <head>A CATALOGUE of the Noblemen and Peers of the Kingdom of <hi>England,</hi> according to their Birth and Creatic, in the Reign of <hi>CHARLES</hi> the Second, KING of <hi>England, Scotland, France</hi> and <hi>Ireland.</hi>
+            </head>
+            <figure>
+               <figDesc>portrait of King Charles II</figDesc>
+               <head>CHARLES II, Buy Grace of GOD King of England, Scotland France, &amp; Ireland, &amp;</head>
+               <head type="sub">AEtatis ſuae 32</head>
+               <byline>P.S <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>xcudit</byline>
+            </figure>
+            <list>
+               <head>Dukes of the Blood-Royal.</head>
+               <item>JAMES STUART Duke of York, by King Charls the 1. his Father.</item>
+               <item>Henry called Duke of Gloceſter, died Sept. 13.1660.</item>
+               <item>Rupert Duke of Cumberland and E.of Holderneſs.</item>
+               <item>Charls called Duke of Cambridge, died May 5.1660. by K. Charls the 2. his Uncle.</item>
+            </list>
+            <list>
+               <head>Dukes.</head>
+               <item>THomas Howard Duke of Norfolk, by K. Richard 3.</item>
+               <item>William Seymor Duke of Somerſet, by K. Edw. 6.</item>
+               <item>George Villers Duke of Buckingham, by K. James.</item>
+               <item>Charls Stuart Duke of Richmond and Lenox, by K. Charls 1.</item>
+               <item>George Monck Duke of Albemarl, Earl of Forrington, Baron Monck of Potheridge, Beauchamp, and Teyes, by K. Charls the 2.</item>
+               <item ana="#role_TOTAL">9 DUKES.</item>
+            </list>
+            <list>
+               <head>Arch-Biſhops.</head>
+               <item>DOctor William Juxon Lord Arch-biſhop of Canterbury,
+Primate and Metropolitan of all England, conſecrated Anno 1633.</item>
+               <item>Dr. Accepted Frewen Lord Archbiſhop of York, and Metro<g ref="char:EOLhyphen"/>politan of England, Conſecrated Anno 1634.</item>
+               <item ana="#role_TOTAL">2 ARCH-BISHOPS</item>
+            </list>
+            <list>
+               <head>Marqueſſes.</head>
+               <item>JOhn Pawlet Marquis of Wincheſter, Premier Marquis of England, by King Edward, Anno 1551.</item>
+               <item>Edward Somerſet Marquis of Worceſter and Beauford, by K.Charls 1.</item>
+               <item>William Cavendiſh Marquis of Newcaſtle, by K. Charls 1.</item>
+               <item>Henry Pierpoint Marquis of Dorcheſter, by the ſame King.</item>
+               <item ana="#role_TOTAL">4 MARQUESSES.</item>
+            </list>
+            <list>
+               <head>Earls.</head>
+               <item>AUbrey de Vere Earl of Oxford, Premier Earl of England, by Hen. 2.</item>
+               <item>Algernon Piercy Earl of Northumberland, by K. Rich. 2.</item>
+               <item>Francis Talbot Earl of Shrewsbury, by K. Hen. 6.</item>
+               <item>H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nry Grey Earl of Kent, by K. Hen. 7.</item>
+               <item>Charls Stanley Earl of Darby, by K. Hen. 7.</item>
+               <item>John Mannors Earl of Rutland, by K. Hen. 8.</item>
+               <item>Theophilus Haſtings Earl of Huntington, by K. Hen. 8.</item>
+               <item>Thomas Writheſley Earl of Southampton, by K. Edw. 6. Anno 1551.</item>
+               <item>William Ruſſel Earl of Bedford, by the ſame King.</item>
+               <item>Phillip Herbert Earl of Pembrook and Mountgomery, by the ſame King.</item>
+               <item>Theophilus Clinton Earl of Lincoln, by Queen Elizabeth.</item>
+               <item>Charls Howard Earl of Notingham, by Queen Eliz.</item>
+               <item>James Howard Earl of Suffolk, by K. James.</item>
+               <item>Richard Sackvile Earl of Dorſet, and Baron Buckhurſt.</item>
+               <item>William Cecil Earl of Salisbury, Viſcount Crauborn.</item>
+               <item>John Cecil Earl of Exeter, and Baron Burghley.</item>
+               <item>John Egerton Earl of Bridgewater, Viſcount Brackley.</item>
+               <item>Robert Sidney Earl of Leiceſter, Viſcount Liſle.</item>
+               <item>James Compton Earl of Northampton, Baron Compton.</item>
+               <item>Charls Rich Earl of Warwick, and Baron Rich of Leeze.</item>
+               <item>William Cavendiſh Earl of Devonſhire.</item>
+               <item>James Hey Earl of Carliſle, died in 1660.</item>
+               <item>Baſil Fielding Earl of Denbigh, Viſcount Fielding.</item>
+               <item>George Digby Earl of Briſtol, Baron Digby of Sherbourne Knight, and Knight of the Garter.</item>
+               <item>Lionel Cranfield Earl of Middleſex, Baron Cranfield.</item>
+               <item>Chriſtopher Villiers Earl of Angleſey, died in 1660.</item>
+               <item>Robert Rich Earl of Holland, and Baron Kenſington.</item>
+               <item>John Holles, Earl of Clare, and Baron Haughton of Haughton.</item>
+               <item>Oliver St. John Earl of Bullingbrook, and Baron St. John.</item>
+               <item>Mildmay Fane Earl of Weſtmerland, Baron de le Spencer.</item>
+               <item>Edward Montague Earl of Mancheſter, Viſcount Mandevil, by K. Charls 1.</item>
+               <item>Thomas Howard Earl of Barkſhire, Viſcount Andover.</item>
+               <item>Thomas VVentworth Earl of Cleveland, and Baron VVent<g ref="char:EOLhyphen"/>worth.</item>
+               <item>John Sheffield Earl of Moulgrave, and Baron Sheffield.</item>
+               <item>Henry Cary Earl of Monmouth, dyed in June 1661.</item>
+               <item>James Leigh Earl of Marlbrough, Baron Leigh.</item>
+               <item>Nicolas Rowles Earl of Banbury, Viſcount VVallingford.</item>
+               <item>Thomas Savage Earl of Rivers, Viſcount Colcheſter.</item>
+               <item>Mountague Bartue Earl of Lindſey, Viſcount Rochford.</item>
+               <item>Henry Cary Earl of Dover, and Baron VVilloughby.</item>
+               <item>Henry Mordant Earl of Peterborough; and Baron Mordant.</item>
+               <item>Henry Grey Earl of Stanford, and Baron Grey of Grooby.</item>
+               <item>Heneage Finch Earl oi Winchelſea, Viſcount Maidſtone,</item>
+               <item>Charls Dormer Earl of Carnarven, Viſcount Aſcot.</item>
+               <item>Movntjoy Blount Earl of Newport Baron Mountjoy.</item>
+               <item>Philip Stanhop Earl of Cheſterfield, Baron Stanhop.</item>
+               <item>John Tufton Earl af Thanet, Baron Tulton.</item>
+               <item>Hierom Weſton Earl of Portland, Baron Weſton of Neyland.</item>
+               <item>William Wentworth Earl of Strafford, Viſcount Wentworth.</item>
+               <item>Robert Spencer Earl of Sunderland, Baron Spencer. Savil Earl of Suffex, Baron Savile.</item>
+               <item>George Goring Earl of Norwich, Baron Goring.</item>
+               <item>Nicolas Leak Earl of Scarſdale, Baron Dainport. Wilmot Earl of Rocheſter, Baron Wilmot; by K. Charls 2.</item>
+               <item>Henry Germyn Earl of St. Albanes, Baron Jermyn, by K. C. 2.</item>
+               <item>Edward Mountague Earl of Sandwich, Viſcount Finching<g ref="char:EOLhyphen"/>brook, Baron Mountague of Neotes; by K. C. 2.</item>
+               <item>James Butler Earl of Brecknock, and Baren Butler of Lantony in England; and Duke, Marquis, and Earl of Ormond, Earl of Oſſery, Viſcount Thurls, and Baron of Arklo, in Ireland.</item>
+               <item>Edward Hyde Earl of Clarendon, by K. C. 2.</item>
+               <item>Arthur Capel Earl of Eſſex, and Baron Capel of Hadham.</item>
+               <item>Thomas Brudenel Earl of Cardigan, Baron Brudnel.</item>
+               <item>Arthur Anneſley Earl of Angleſey, Baron Anneſly.</item>
+               <item>John Greenvil Earl of Bath, Viſcount Greenvil.</item>
+               <item>Charls Howard Earl of Carlile, Viſcount Howard of Morpeth, Baron Dacres of Gilſland.</item>
+               <item ana="#role_TOTAL">60 EARLS.</item>
+            </list>
+            <list>
+               <head>Viſcounts.</head>
+               <item>LEiceſter Devoreux Viſcount Hereford, Premier Viſcount of England.</item>
+               <item>Francis Brown Viſcount Mountague, by Queen Mary.</item>
+               <item>Robert Villiers Viſcount Purbeck, and Baron of Stoak-Regis, by K. James.</item>
+               <item>VVilliam Fynes Viſcount Say and Seal, by K. James.</item>
+               <item>Edward Conway Viſcount Conway of Ragley.</item>
+               <item>Baptiſt Nowel Viſcount Cambden.</item>
+               <item>VVilliam Howard, Viſcount Stafford.</item>
+               <item>Thomas Bellaſis Viſcount Fawconbridge, of Feanchearle.</item>
+               <item>John Mordant Viſcount Mordant, by K. Charl: 2.</item>
+               <item ana="#role_LABEL">9 VISCOUNTS.</item>
+            </list>
+            <list>
+               <head>Biſhops.</head>
+               <item>DOctor Gilbert Shelden Lord Biſhop of London, conſecrated Octob. 28.1660.</item>
+               <item>Dr. John Coſens Lord Biſhop of Durham, conſecrated Decemb. 2. 1660.</item>
+               <item>Dr. Brian Duppa Lord Biſhop of VVincheſter, Prelate of the Garter, conſecrated 1638.</item>
+               <item>Dr. VVilliam Peirs Lord Biſhop of Bath and VVells, conſe<g ref="char:EOLhyphen"/>crated 1632.</item>
+               <item>Dr. Robert Skinner Lord Biſhop of Oxford, conſecrated 1636.</item>
+               <item>Dr. VVilliam Roberts Lord Biſhop of Bangor, conſecrated Anno 1637.</item>
+               <item>Dr. John VVarner Lord Biſhop of Rocheſter, conſecrated 1637.</item>
+               <item>Dr. Matthew VVren Lord Biſhop of Ely, conſecrated 1638.</item>
+               <item>Dr. Henry King Lord Biſhop of Chicheſter, conſecrated 1641.</item>
+               <item>Dr. Humphrey Hinchman Lord Biſhop of Salisbury, conſe<g ref="char:EOLhyphen"/>crated Octob. 28.1660.</item>
+               <item>Dr. George Morley Lord Biſhop of VVorceſter, conſecrated Octob. 28. 1660.</item>
+               <item>Dr. Robert Sanderſon Lord Biſhop of St. Aſaph, conſecrated Octob. 28.1660.</item>
+               <item>Dr. VVilliam Lucey Lord Biſhop of St. Davids, conſecrated Decemb. 2.1660.</item>
+               <item>Dr. Benjamin Lancey Lord Biſhop of Peterborough, conſe<g ref="char:EOLhyphen"/>crated Decemb. 2.1660.</item>
+               <item>Dr. Hugh Lloyd Lord Biſhop of Landaff, conſecrated De<g ref="char:EOLhyphen"/>cemb. 2.1660.</item>
+               <item>Dr. Richard Stern Lord Biſhop of Carliſle, conſecrated De<g ref="char:EOLhyphen"/>cemb. 2.1660.</item>
+               <item>Dr. Brian VValton Lord Biſhop of Cheſter, conſecrated De<g ref="char:EOLhyphen"/>cemb. 2.1660.</item>
+               <item>Dr. John Gawden Lord Biſhop of Exeter, conſecrated De<g ref="char:EOLhyphen"/>cemb. 2.1660.</item>
+               <item>Dr. Gilbert Ironſide Lord Biſhop of Briſtol, conſecrated Jan. 13.1660.</item>
+               <item>Dr. Edward Reynolds Lord Biſhop of Norwich, conſecrated Jan. 13.1660.</item>
+               <item>Dr. <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Jan. 13.1660.</item>
+               <item>Dr. Nicholas Monck Lord Biſhop of Hereford, conſecrated Jan. 13.1660.</item>
+               <item>Dr. John Hacket Lord Biſhop of Coventry and Lichfield, con<g ref="char:EOLhyphen"/>ſecrated Decemb. 22.1661.</item>
+               <item ana="#role_LABEL">23 BISHOPS.</item>
+            </list>
+            <list>
+               <head>Barons.</head>
+               <item>JOhn Nevil Baron Abergevenny Premier Baron of England. by W. 2.</item>
+               <item>James Touchet Baron Awdley, Earl of Caſtle-haven in Ireland.</item>
+               <item>Charls VVeſt Baron Delaware.</item>
+               <item>George Barkley Baron Barkly of Barkly.</item>
+               <item>Thomas Parker Baron Morley and Mounteagle.</item>
+               <item>Francis Leonard Baron Dacre.</item>
+               <item>Conniers Darcy Baron Darcy.</item>
+               <item>Edward Sutton, Baron of Dudley-Caſtle.</item>
+               <item>VVilliam Stourton Baron Stourton of Stourton.</item>
+               <item>VVilliam Sands Baron Sands of the Vine.</item>
+               <item>Edward Vaux Baron Vaux of Harrowden.</item>
+               <item>Thomas VVindſor Hikman Baron VVindſor.</item>
+               <item>Thomas VVentworth Baron VVentworth.</item>
+               <item>VVinckfield Cromwel Baron Cromwel of Okcham, 31 Hen. 8.</item>
+               <item>George Ewre Baron Ewre, 35 Hen. 8.</item>
+               <item>Philip VVharton Baron VVharton of VVharton.</item>
+               <item>Francis VVilloughby Baron VVilloughby of Parham.</item>
+               <item>VVilliam Paget Baron Paget of Beau decert.</item>
+               <item>Dudley North Baron North of Carthlage.</item>
+               <item>VVilliam Bruges Baron Chandois of Sudely.</item>
+               <item>John Cary Baron Cary, eldeſt ſon of Henry Earl of Dover.</item>
+               <item>VVilliam Petre Baron Petre of VVrittle.</item>
+               <item>Charls Gerrard Baron Gerard of Gerards Bromeley.</item>
+               <item>Charls Stanhop Baron Stanhop of Harrington, 3 K. James.</item>
+               <item>Henry Arundel Baron Arundel of VVarder; 3 K. James.</item>
+               <item>Chriſtopher Roper Baron Teinham; 14 K. James.</item>
+               <item>Foulke Grevile Baron Grevil of Beauchamp Court, 18 K. James.</item>
+               <item>Edward Mountague Baron Mountague of Broughton, 19 K. James.</item>
+               <item>Charls Howard Baron Howard, eldeſt ſon of Thomas Earl of B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rkſhire.</item>
+               <item>William Grey Baron Grey of Warck; 21 K. James.</item>
+               <item>John Roberts Baron Roberts of Truro, 22 K. James.</item>
+               <item>VVilliam Craven Baron Craven of Hampſted Marſhal, 2 K. Charls 1.</item>
+               <item>John Lovelace Baron Lovelace of Hurley, 3 K. Charls 1.</item>
+               <item>John Pawlet Baron Pawlet of Hinton St. George, 3 K. Ch. 1.</item>
+               <item>William Maynard Baron Maynard of Eſteams, 3 K. Ch. 1.</item>
+               <item>Thomas Coventry Baron Coventry of Alſeborough, 4 K. Ch. 1.</item>
+               <item>Edward Howard Baron Howard of Eſcrick.</item>
+               <item>VVarwick Mohun Baron Mohun of Okehampton.</item>
+               <item>VVilliam Botiller Baron Botiller of Bromefield.</item>
+               <item>Piercy Herbert Baron Powys of Powys, 5 K. Ch. 1.</item>
+               <item>Edward Herbert Baron Herbert of Cherbury, 5 Ch. 1.</item>
+               <item>John Finch Baron Finch of Fordwich, died in 1660.</item>
+               <item>Francis Seamour Baron Seamour of Trowbridge.</item>
+               <item>Thomas Bruce Baron Bruce of VVorlton, and Earl of Elgin in Scotland.</item>
+               <item>Francis Newport Baron Newport of high Arcal, 18 K. Ch. 1.</item>
+               <item>Thomas Leigh, Baron Leigh of Stoneleigh, 19 K. Ch. 1.</item>
+               <item>Chriſtopher Hatton Baron Hutton of Kerby, the ſame year.</item>
+               <item>Henry Haſting Baron Loughborough of Loughborough, the ſame year.</item>
+               <item>Richard Byron Baron Byron of Rochdale, the ſame year.</item>
+               <item>Richard Vaughan Baron Vaughan of Emlyn, and Earl of <hi>Catherry</hi> in Ireland, the ſame year.</item>
+               <item>Charls Smith Baron Carington of Worton, the ſame year.</item>
+               <item>William Widrington Baron Widrington of Blankney.</item>
+               <item>Humble Ward Baron Ward of Bromingham, the ſame year.</item>
+               <item>Thomas Colpepper Baron Colpepper of Th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſeway, 20. K. C. 1.</item>
+               <item>Iſaac Aſtely Baron Aſtely of Reading, the ſame year.</item>
+               <item>Richard Boyle Baron Clifford, Earl of Cork in Ireland.</item>
+               <item>Iohn Lucas Baron Lucas of Shenfield, the ſame year.</item>
+               <item>Iohn Bellaſis Baron Bellaſis of Worlaby, the ſame year.</item>
+               <item>Edward Watſon Baron Rockingham, the ſame year.</item>
+               <item>
+                  <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Baron G<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rrard of Brandon, t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſame year.</item>
+               <item>Robert Sutton Baron Lexinton of Aram, the ſame year.</item>
+               <item>Charls Kirkhoven Baron Wooton of Wooton, by K. Ch. 2.</item>
+               <item>Marmaduke Langdale Baron Langdale of Holme, by K. Ch. 2.</item>
+               <item>William Crofts Baron Crofts, by the ſame King.</item>
+               <item>Iohn Berkly Baron Berkly of Stratton, by the ſame King.</item>
+               <item>Denizel Holles Baron Holles of Ifield, 20 April 1661. by the ſame King.</item>
+               <item>Frederick Cornwallis Baron Cornwallis of Eye, the ſame day and year; died 1662.</item>
+               <item>George Booth Baron Delamerre of Dunham-Maſſ
+ey, the ſame day and year.</item>
+               <item>Horatio Townſeſ and Baron Townſeſand of Lynne-Regis, the ſame day and year.</item>
+               <item>Anthony-Aſhley Cooper Baron Aſhley of Wymbourn St. Giles.</item>
+               <item>Iohn Crew Baron Crew of Steane, the ſame day and year, by the ſame King.</item>
+               <item ana="#role_LABEL">70 BARONS.</item>
+            </list>
+            <p>176 Noblemen and Biſhops in England.</p>
+            <list>
+               <head>The Degrees of <hi>England.</hi>
+               </head>
+               <item>1 THe KING.</item>
+               <item>2 The Prince.</item>
+               <item>3 Dukes of the blood-Royal, as the Sons, Brothers, Uncles and Nephews of the King in being, or of a deceaſed King, who have their precedency of other Dukes onely during their lives, by reaſon of their birth.</item>
+               <item>4 Other <hi>Dukes.</hi>
+               </item>
+               <item>5 Marquiſſes.</item>
+               <item>6 The eldeſt Sons of Dukes of the Royal blood.</item>
+               <item>7 The eldeſt Sons of other Dukes.</item>
+               <item>8 Earls.</item>
+               <item>9 The eldeſt ſons of Marquiſſes.</item>
+               <item>10 The younger ſons of Dukes of the Royal blood.</item>
+               <item>11 The younger ſons of other Dukes.</item>
+               <item>12 Viſcounts.</item>
+               <item>13 The eldeſt ſons of Earls.</item>
+               <item>14 The younger ſons of Marquiſſes.</item>
+               <item>15 Barons.</item>
+               <item>16 The eldeſt ſons of Viſcounts.</item>
+               <item>17 The younger ſons of Earls.</item>
+               <item>18 The eldeſt ſons of Barons.</item>
+               <item>19 Privy Counſellors, Knights who have been Embaſſadors, The Lord chief Juſtice of the Kings bench, Maſter of the Rolls in Chancery, Lord chief Juſtice of the Common Pleas, Lord chief Baron of the Exchequer, with the other Iudges and Barons of the Coyfe of the Kings bench, Common pleas and Exchequer.</item>
+               <item>20 The younger ſons of Viſcounts.</item>
+               <item>21 The younger ſons of Barons.</item>
+               <item>22 Knights of the Garter.</item>
+               <item>23 Knights Bannerets.</item>
+               <item>24 Baronet.</item>
+               <item>25 Knights of the Bath.</item>
+               <item>26 Knights Batchelers.</item>
+            </list>
+            <p>Eſquires and Gentlemen are but Additi<g ref="char:EOLhyphen"/>ons onely, and no Degrees.</p>
+            <byline>Collected by <hi>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Alleyn.</hi>
+            </byline>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for the Author. 1662.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
